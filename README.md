@@ -32,6 +32,10 @@ I intentionally engaged the AI in repeated self-reference to test whether it wou
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719256190647.png)
 
+![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719273506715.png)
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719273548637.png)
+
 ## Chat Log
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719255834734.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719273608018.png)
